@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/gif.gif" width="100%">
+  <img src="img/gif.gif" style="max-width:100%;">
 </p>
 
 # 👋 ¡Hola! Soy Beatriz Lama
