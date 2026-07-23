@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[URL_DEL_GIF](https://ciberinteligencia.wordpress.com/2018/10/27/ciberseguridad-ii/)" width="600">
+</p>
+
 # 👋 ¡Hola! Soy Beatriz Lama
 
 💻 Técnico de IT con interés en la administración de sistemas, la ciberseguridad y el aprendizaje continuo.
