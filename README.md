@@ -8,8 +8,6 @@ Actualmente estoy ampliando mis conocimientos en Windows, Linux, Kali Linux, OSI
 
 ## 🚀 Actualmente
 
-## 🚀 Actualmente
-
 - 💼 Trabajando como Técnico de IT.
 - 🛠 Desarrollando proyectos personales.
 - 🔍 Profundizando en OSINT y ciberseguridad.
