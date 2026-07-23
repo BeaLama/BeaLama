@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a36ade43-b2db-41fe-abd4-90b427332c48" width="600">
+  <img src="images/gif.gif" width="700">
 </p>
 
 # 👋 ¡Hola! Soy Beatriz Lama
