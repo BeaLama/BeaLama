@@ -18,23 +18,17 @@ Actualmente estoy ampliando mis conocimientos en Windows, Linux, Kali Linux, OSI
 
 ## 🛠 Tecnologías e intereses
 
-- Windows ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows)
-  
-- Linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-- Kali Linux ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- PowerShell ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-  
-- Python ![Python](https://img.shields.io/badge/Python-Aprendiendo-3776AB?style=for-the-badge&logo=python)
+![Networking](https://img.shields.io/badge/Networking-009688?style=for-the-badge&logo=cisco&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Aprendiendo-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- GitHub ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- OSINT ![OSINT](https://img.shields.io/badge/OSINT-Informaci%C3%B3n%20Abierta-4CAF50?style=for-the-badge)
-  
-- Redes ![Networking](https://img.shields.io/badge/Networking-009688?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4CAF50?style=for-the-badge)
 
 ---
 
