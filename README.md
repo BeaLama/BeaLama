@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://ciberinteligencia.wordpress.com/2018/10/27/ciberseguridad-ii/" width="600">
+  <img src="<img width="540" height="289" alt="image" src="https://github.com/user-attachments/assets/a36ade43-b2db-41fe-abd4-90b427332c48" />
+">
 </p>
 
 # 👋 ¡Hola! Soy Beatriz Lama
