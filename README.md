@@ -8,12 +8,16 @@ Actualmente estoy ampliando mis conocimientos en Windows, Linux, Kali Linux, OSI
 
 ## 🚀 Actualmente
 
-- 💻 Técnico de IT
-- 🪟 Administración de sistemas Windows
-- 🐧 Aprendiendo Linux y Kali Linux
-- 🔍 Interesada en OSINT y ciberseguridad
-- 📚 Aprendiendo nuevas tecnologías y desarrollando proyectos personales
+## 🚀 Actualmente
 
+- 💼 Técnico de IT
+- 🪟 Administración de sistemas Windows
+- 🐧 Administración de sistemas Linux
+- 🌐 Redes
+- 🔍 OSINT
+- 🛡️ Ciberseguridad
+
+📚 Aprendiendo y desarrollando nuevos proyectos
 ---
 
 ## 🛠 Tecnologías e intereses
