@@ -18,7 +18,7 @@ Actualmente estoy ampliando mis conocimientos en Windows, Linux, Kali Linux, OSI
 
 ## 🛠 Tecnologías e intereses
 
-- Windows
+- Windows ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows)
 - Linux
 - Kali Linux
 - PowerShell
